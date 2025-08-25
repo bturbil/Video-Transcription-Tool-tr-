@@ -11,8 +11,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 # ---------- CONFIG ----------
-video_path  = r"C:\Users\TBU9BU\Desktop\videolar\ALI.mp4"
-output_pdf  = r"C:\Users\TBU9BU\Desktop\videolar\ALI_transcript_frames_tr.pdf"
+video_path  = r"xxx" #Filepath of the video
+output_pdf  = r"xxx" #Filepath of the output
 
 PAGE_W, PAGE_H = A4         # points
 MARGIN = 36                 # points
