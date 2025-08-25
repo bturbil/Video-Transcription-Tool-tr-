@@ -75,7 +75,8 @@ Missing fonts for Turkish accents → install a Unicode font and add its path to
 
 
 
-#TR — Genel Bakış
+--TR-- 
+#Genel Bakış
 
 Türkçe bir videoyu bölümlere ayrılmış PDF’e dönüştürür. Her sayfada, ilgili konuşma bölümünün orta anından alınmış bir video karesi ve zaman damgalı metin bulunur. Konuşma-metin için Whisper, kare almak için MoviePy, görüntü için Pillow, PDF için ReportLab kullanılır. Windows’ta Türkçe karakterleri destekleyen fontlar otomatik seçilir; yoksa Helvetica’ya düşer.
 
